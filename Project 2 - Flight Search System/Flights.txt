@@ -1,0 +1,6 @@
+Flight with the ID number 1 will be on 17.10.2021 at 10.24 from Istanbul to Trabzon via Turkish Airlines. Ticket price is 520.0 TL.
+
+Flight with the ID number 2 will be on 14.11.2021 at 23.30 from Ankara to Istanbul via Pegasus. Ticket price is 400.0 TL.
+
+Flight with the ID number 3 will be on 21.8.2012 at 15.45 from Dust2 to Militia via Valve Air. Ticket price is 24.0 TL.
+
